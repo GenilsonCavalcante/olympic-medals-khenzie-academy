@@ -1,0 +1,23 @@
+/*!
+--------------------------------------------
+ESTRUTURAÇÃO BASE (v1)
+--------------------------------------------
+**** GERAL
+**** BODY
+**** HEADER
+**** FOOTER
+**** PÁGINA INICIAL
+**** EXTRAS
+**** @media
+*/
+
+
+/* GERAL */
+html, body, header, main, footer, article, div, span, p, a, figure, img, small{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    outline: none;
+}
